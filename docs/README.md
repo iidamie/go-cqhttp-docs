@@ -13,11 +13,11 @@ actions:
     link: /guide/
 
 features:
-  - title: 过去
+  - title: 过去1
     details: 只需简单的配置, 就可以基于 go-cqhttp 使用框架开发。
-  - title: 现在
+  - title: 现在2
     details: 轻量, 原生, 高并发, 低占用, 跨平台。
-  - title: 未来
+  - title: 未来3
     details: 不局限于 onebot 标准 ! go-cqhttp 可以做到更多 !
 
 footer: CC-BY-SA-4.0 Licensed | Copyright © 2021-present Romichan
